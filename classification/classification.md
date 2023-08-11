@@ -1,0 +1,2 @@
+## Classification
+Binary classification is a type of machine learning task where the goal is to predict one of two possible outcomes based on input features. For example, determining whether a customer will buy a product (yes or no) based on their age and interaction time with a website. It is used to predict a binary output given several parameters. For example, if the input dataset consists of the user info such as their age and the time they spend with the system. And, the output could be weather or not they will buy the products owned and sold by the website (0 or 1)
